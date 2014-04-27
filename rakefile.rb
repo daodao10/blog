@@ -28,6 +28,5 @@ task :dev do
   #system('jekyll')
   system('git add .')
   system("git commit -am 'jekyll'")
-  system('git remote add origin https://github.com/daodao10/blog.git')
-  system('git push origin gh-pages')
+  system('git push')
 end
