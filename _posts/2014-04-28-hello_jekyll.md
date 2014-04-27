@@ -54,7 +54,7 @@ git remote add origin https://github.com/daodao10/blog.git
 git push origin gh-pages
 ```
 
-+ it is time to goto [your blog](http://daodao10.github.com/blog)
++ it is time to goto [your blog](http://daodao10.github.io/blog)
 
 
 NOTE:

@@ -1,3 +1,4 @@
+# refer to https://gist.github.com/stammy/792958
 
 desc "Given a title as an argument, create a new post file"
 task :post do
