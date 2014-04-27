@@ -28,5 +28,5 @@ task :dev do
   #system('jekyll')
   system('git add .')
   system("git commit -am 'jekyll'")
-  system('git push')
+  system('git push origin gh-pages')
 end
